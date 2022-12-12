@@ -10,7 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FlagQuizz">
         <activity
-            android:name=".MainActivity"
+            android:name=".resultats"
+            android:exported="false" />
+        <activity
+            android:name=".reponse1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".mainQuestionnaireActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

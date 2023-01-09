@@ -40,7 +40,7 @@
 
     <Button
 
-        android:id="@+id/buttonRoll"
+        android:id="@+id/buttonRoll2"
 
         android:layout_width="fill_parent"
 
@@ -50,7 +50,39 @@
 
         android:padding="20dp"
 
-        android:text="Marseille"
+        android:text="madrid"
+
+        android:textSize="18sp" />
+
+    <Button
+
+        android:id="@+id/buttonRoll1"
+
+        android:layout_width="fill_parent"
+
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center"
+
+        android:padding="20dp"
+
+        android:text="marseille"
+
+        android:textSize="18sp" />
+
+    <Button
+
+        android:id="@+id/buttonRoll3"
+
+        android:layout_width="fill_parent"
+
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center"
+
+        android:padding="20dp"
+
+        android:text="paris"
 
         android:textSize="18sp" />
 </LinearLayout>

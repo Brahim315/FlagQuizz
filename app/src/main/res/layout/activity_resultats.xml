@@ -22,7 +22,6 @@
 
         android:layout_gravity="center_horizontal"
 
-        android:text="Reponse 1"
 
         android:textSize="50sp" />
     <TextView
@@ -35,7 +34,6 @@
 
         android:layout_gravity="center_horizontal"
 
-        android:text="Reponse 2"
 
         android:textSize="50sp" />
 
@@ -49,7 +47,6 @@
 
         android:layout_gravity="center_horizontal"
 
-        android:text="Reponse 3"
 
         android:textSize="50sp" />
 
